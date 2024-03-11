@@ -1,7 +1,7 @@
-##Cube Rush
+## Cube Rush
 Cube Rush is an addictive single-player game where you maneuver a cube through challenging levels filled with obstacles. Dodge black boxes, navigate through intricate patterns, and progress through 10 exhilarating levels. Are you ready for the rush?
 
-#Features
+# Features
 10 Challenging Levels: Each level presents a unique set of obstacles, increasing in difficulty as you advance.
 
 Smooth Controls: Use intuitive controls to guide your cube with precision and agility.
@@ -12,7 +12,7 @@ Engaging Experience: Immerse yourself in the fast-paced and thrilling world of C
 
 Challenge Mode: Test your skills in a special challenge mode with even tougher levels.
 
-#How to Play
+# How to Play
 Controls: Use arrow keys or touch gestures to control the cube's movement.
 
 Objective: Avoid collisions with black boxes while navigating through each level.
