@@ -19,5 +19,12 @@ Cube Rush is an addictive single-player game where you maneuver a cube through c
 
 - Progress: Complete all 10 levels to emerge victorious.
 
+
+# Screenshots 
+
 ![image](https://github.com/kshitij1235/cubegame/assets/65331304/627e0431-9a31-4341-b851-67362ca0f2ea)
 ![image](https://github.com/kshitij1235/cubegame/assets/65331304/23552e60-d35e-4d14-93f8-be5da065f1bd)
+
+
+# Feedback
+We value your feedback! If you encounter any issues or have suggestions for improvement, please let us know by creating an issue.
